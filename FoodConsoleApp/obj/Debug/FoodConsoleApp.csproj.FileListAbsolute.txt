@@ -1,0 +1,7 @@
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\bin\Debug\FoodConsoleApp.exe.config
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\bin\Debug\FoodConsoleApp.exe
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\bin\Debug\FoodConsoleApp.pdb
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\obj\Debug\FoodConsoleApp.csprojAssemblyReference.cache
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\obj\Debug\FoodConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\obj\Debug\FoodConsoleApp.exe
+C:\Users\mike\source\repos\FoodConsoleApp\FoodConsoleApp\obj\Debug\FoodConsoleApp.pdb
